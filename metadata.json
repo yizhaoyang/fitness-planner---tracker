@@ -1,0 +1,6 @@
+{
+  "name": "Fitness Planner & Tracker",
+  "description": "A sleek web application for planning workouts, tracking exercises, checking in, and exploring an exercise library with instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
